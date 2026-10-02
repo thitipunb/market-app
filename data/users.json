@@ -36,6 +36,15 @@
       "salt": "a6fc53343361540dd76689a8d8ccb13d",
       "passwordHash": "a121e44856a333b0f64735e6f796f97b54fc30edc26686f8a5aab80acc2bdfb141e112c5a808e5eb1693eb42f53208464907e94d2ca81ea2bd3db43617a6b10a",
       "createdAt": "2026-09-29T07:10:39.137Z"
+    },
+    {
+      "id": "8a6e1bd1-f9ba-47bf-8617-3cee46650643",
+      "fullName": "aaaa",
+      "phone": "0111111111",
+      "role": "tenant",
+      "salt": "7cb94866e26233eb91dd93975850a86a",
+      "passwordHash": "15a79e8c87bcf6756e954623898fa43134fdf18173e68d7c84cf0c75952a67e0a5617e720e34cc766c20b088cde80ea24d55e1ddd59102cbcdf16172541efd20",
+      "createdAt": "2026-10-02T04:47:22.598Z"
     }
   ]
 }
